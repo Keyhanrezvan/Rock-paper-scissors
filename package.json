@@ -1,0 +1,9 @@
+{
+    "name": "rock-paper-scissors",
+    "lockfileVersion": 2,
+    "requires": true,
+    "packages": {},
+    "scripts": {
+      "start": "node ./script.js"
+    }
+  }
